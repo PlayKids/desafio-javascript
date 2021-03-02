@@ -14,7 +14,7 @@
  * igual ao MDC de N e do resto da divisão de M por N.
  *
  * Você pode considerar que nas entradas dos testes
- * a > b sempre.
+ * a < b sempre.
  */
 
 const MDC = (a, b) => {}
